@@ -1,9 +1,9 @@
 ## GERENCIADOR DE MEMORIAS
 
 Um Gerenciador de Memorias onde o programa expõe:<br>
-    MEMORIA LIVRE<br>
-    TOTAL DE MEMORIA<br>
-    PORCENTAGEM DE USO<br>
+    <pre>MEMORIA LIVRE<br>
+    <pre>TOTAL DE MEMORIA<br>
+    <pre>PORCENTAGEM DE USO<br>
 
 
 
