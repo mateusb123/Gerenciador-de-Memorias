@@ -2,8 +2,8 @@
 
 Um Gerenciador de Memorias onde o programa expõe:<br>
     <pre>MEMORIA LIVRE<br>
-    <pre>TOTAL DE MEMORIA<br>
-    <pre>PORCENTAGEM DE USO<br>
+    TOTAL DE MEMORIA<br>
+    >PORCENTAGEM DE USO</pre>
 
 
 
